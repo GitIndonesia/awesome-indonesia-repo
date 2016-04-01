@@ -46,7 +46,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Databases
 - [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia.
- 
+
 ## Framework
 - [Panada](https://github.com/panada/Panada) - High performance PHP development framework, yet simple.
 
@@ -55,6 +55,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
 - [React Komik](https://github.com/sonnylazuardi/react-komik) - ReactJS based comic strip creator using fabric.js canvas rendering.
+- [Sizle](https://github.com/christoga/sizle) - Size styler using jQuery
+
 
 ## Game
 - [Word Chain](https://github.com/sonnylazuardi/wordchain) - Multiplayer word chaining game using angular.js and firebase.
@@ -71,6 +73,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Jekyll Theme
 - [JekMDL](https://github.com/tigefa4u/jekmdl) - Jekyll themes use Material Design Lite.
 - [Mangan](https://github.com/dikiaap/mangan) - A Light contrast of Jekyll theme.
+- [Jekyll Material Design](https://github.com/christoga/blog) - Material Design interfaces for Jekyll.
 
 ## Learn
 - [Awesome CodeIgniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter.
@@ -100,6 +103,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Python
 - [Auto Complete Python](https://github.com/sadovnychyi/autocomplete-python) - Jedi based Python autocomplete for Atom.
+- [Exit.py](https://github.com/christoga/exit.py) - Python tool for exiting program.
+
 
 ## Miscellaneous
 - [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme style Mac OSX Lion.
