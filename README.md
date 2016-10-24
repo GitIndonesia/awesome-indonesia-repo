@@ -47,6 +47,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [WhatsApp ProfileCollapsingToolbar](https://github.com/anton46/WhatsApp-ProfileCollapsingToolbar) - An Android custom animation view that looks like WhastApp Profile screen style.
 - [Ziliun React Native](https://github.com/sonnylazuardi/ziliun-react-native) - Ziliun article reader android app built with React Native.
 - [React Tomato Timer](https://github.com/sonnylazuardi/react-tomato-timer) - A simple timer for a more productive way to work and study built with ReactJS.
+- [FirebaseUI for Android](https://github.com/firebase/firebaseui-android) - open-source library for Android that allows you to quickly connect common UI elements to Firebase APIs like the Realtime Database or Firebase Authentication.
 
 
 ## Books
