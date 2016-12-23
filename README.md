@@ -139,6 +139,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Ruby Basic](https://github.com/xinuc/ruby_basic) - Learning material for Ruby Programming Language, written in Bahasa Indonesia.
 - [NLP Bahasa Indonesia](https://github.com/sastrawi/nlp-bahasa-indonesia) - A curated list of Indonesian Natural Language Processing resources.
 - [Docs vuejs id](https://github.com/vuejs-id/docs)- Dokumentasi Vue.js Bahasa Indonesia.
+- [Gitster-ID](https://github.com/Gitster-ID/Gitster-ID)- Github Pages for Learning site the fundamentals of Git.
 
 
 ## Pentest
