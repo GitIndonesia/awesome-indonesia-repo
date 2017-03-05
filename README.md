@@ -65,7 +65,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Community
 
-- [Awesome Indonesia](https://github.com/vickydasta/awesome-id) - Kumpulan link komunitas pemrograman yang ada di Indonesia
+- [Awesome Indonesia](https://github.com/vickydasta/awesome-id) - Kumpulan link komunitas pemrograman yang ada di Indonesia.
 
 
 ## Content Management System
