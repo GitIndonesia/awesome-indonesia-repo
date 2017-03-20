@@ -176,6 +176,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Slim Starter](https://github.com/xsanisty/SlimStarter) - Starter Application built on Slim Framework in MVC (and HMVC) environment.
 - [Boilerplate Slim 3] (https://github.com/zhiephie/boilerplate-slim3) - Boilerplate for getting started with Slim Framework.
+- [Lassi] (https://github.com/jabranr/lassi) - PHP boilerplate for quick projects using Slim Framework and Eloquent database.
 
 
 ## Symfony
