@@ -143,11 +143,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Docs vuejs id](https://github.com/vuejs-id/docs)- Dokumentasi Vue.js Bahasa Indonesia.
 
 
-## Pentest
-
-- [Who Wrote This Sh*t](https://github.com/geovedi/who-wrote-this-shit) - Simple demonstration forensic linguistics program analysing a document.
-
-
 ## PHP
 
 - [PHP-BOOTSTRAP](https://github.com/Harazaki/PHP-BOOTSTRAP) - Simple design templates framework together with the famous bootstrap.
@@ -203,7 +198,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Sastrawi](https://github.com/sastrawi/sastrawi) - High quality stemmer library for Indonesian Language.
 - [SentiStrengthID](https://github.com/masdevid/SentiStrengthID) - Sentiment Strength Detection in Bahasa Indonesia.
-
+- [Who Wrote This Sh*t](https://github.com/geovedi/who-wrote-this-shit) - Simple demonstration forensic linguistics program analysing a document.
 
 
 ## Miscellaneous
