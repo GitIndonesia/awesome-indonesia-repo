@@ -155,6 +155,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Gas ORM](https://github.com/toopay/gas-orm) - A lighweight and easy-to-use ORM for CodeIgniter.
 - [SunQA](https://github.com/SunDi3yansyah/SunQA) - Simple App Question Answer like Stackoverflow.
+- [Ion Auth](https://github.com/benedmunds/CodeIgniter-Ion-Auth) - Simple and Lightweight Auth System for CodeIgniter.
 
 
 ## Laravel
