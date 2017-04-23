@@ -28,3 +28,4 @@ tricks for the ones you already use.
 | [@pirey](https://github.com/pirey) | My personal dotfiles | [https://github.com/pirey/dotfiles](//github.com/pirey/dotfiles) |
 | [@mirzalazuardi](https://github.com/mirzalazuardi) | Vimrc for Server | [https://github.com/mirzalazuardi/vimrc-server](//github.com/mirzalazuardi/vimrc-server) |
 | [@lidilidian](https://github.com/lidilidian) | My Personal (.) files | [https://github.com/Lidilidian/configuration](//github.com/Lidilidian/configuration) |
+| [@yabesWirawan](https://github.com/yabesWirawan) | My Visual Studio Code settings file | [https://github.com/yabesWirawan/vscdotfiles](//github.com/yabesWirawan/vscdotfiles) |
