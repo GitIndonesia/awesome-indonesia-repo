@@ -189,6 +189,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Membership PHP Indonesia](https://github.com/phpindonesia/phpindonesia.or.id-membership2) - Membership Application for PHP Indonesia.
 - [playCMS](https://github.com/antonraharja/playSMS) - Web-based Mobile Portal System that it can be made to fit to various services such as an SMS gateway.
 - [Terbilang](https://github.com/mul14/terbilang-php) - Convert numbers into words in Indonesian language.
+- [SLiMS (Senayan Library Management System)](https://github.com/slims) - Manage your library activities (cataloging, circulation, membership, stocktaking, etc), building digital repositories, build your union catalog, and join other union catalog like Indonesia OneSearch.
 
 
 ## CodeIgniter
