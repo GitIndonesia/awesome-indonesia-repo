@@ -256,6 +256,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [WordGraph](https://github.com/tistaharahap/WordGraph) - Weighting word frequency graph.
 - [fasttext](https://github.com/salestock/fastText.py) - A Python interface for Facebook fastText.
 - [HSR](https://github.com/pyk/hsr) - Hand signals recognition using Convolutional Neural Network implemented in TensorFlow.
+- [EmeraldBox](https://github.com/femmerling/EmeraldBox) - Boilerplate framework for developing python web applications with database access
 
 
 # R
