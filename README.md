@@ -184,6 +184,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [JekMDL](https://github.com/tigefa4u/jekmdl) - Jekyll theme use Material Design Lite.
 - [Mangan](https://github.com/dikiaap/mangan) - Geek theme for Jekyll.
 - [Stack Problem](https://github.com/agusmakmun/agusmakmun.github.io) - Free and open-source Jekyll theme.
+- [Jekyll Starter Blog](https://github.com/sutanlab/jekyll-starter-blog) - Awesome and Beautiful Jekyll Starter Kit
 
 ## Learn
 
