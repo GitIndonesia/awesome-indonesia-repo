@@ -93,6 +93,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Buku Git](https://github.com/endymuhardin/buku-git) - Buku Version Control menggunakan Git.
 - [E-Library MDC](https://github.com/MuhammadiyahDeveloperClub/E-Library) - E-Library yang berisi kumpulan E-Book tentang dunia IT.
 - [JVM Handbook](https://github.com/bliblidotcom/jvm-handbook) - Buku pembahasan detil tentang cara kerja dan internal JVM.
+- [Belajar Dengan Jenius Deno](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand) - Buku pembahasan tentang [Deno](https://github.com/denoland/deno) (TypeScript runtime).
 
 ## Content Management System
 
