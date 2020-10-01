@@ -49,6 +49,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Python](#python)
   - [Security] (#security)
   - [Internet of Thing] (#iot)
+  - [C/C++] (#cpp)
 
 - [R](#r)
   - [Natural Language Processing](#natural-language-processing)
