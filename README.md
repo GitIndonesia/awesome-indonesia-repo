@@ -352,6 +352,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [BekasiJS](https://github.com/bekasijs)
 - [SurabayaJS](https://github.com/SurabayaJS)
 - [ReversingID](https://github.com/ReversingID)
+- [Saturday Class](https://github.com/saturdayclass/)
 
 ## License
 
