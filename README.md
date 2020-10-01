@@ -325,12 +325,12 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Web Application Security
 
-- [Sudomy](https://github.com/Screetsec/Sudomy) - Subdomain Enumeration & Analysis
-- [TheFatRat](https://github.com/Screetsec/TheFatRat) - Exploiting tools which compiles a malware
-- [FinDOM-XSS](https://github.com/dwisiswant0/findom-xss) - Finding potential DOM based XSS vulnerability
-- [karen](https://github.com/hrtywhy/karen) - Web application vulnerability scanner
-- [SVScanner](https://github.com/radenvodka/SVScanner) - Scanner Vulnerability And MaSsive Exploit
-- [PENTOL](https://github.com/radenvodka/PENTOL) - Plugin Fiddler for Pentester
+- [Sudomy](https://github.com/Screetsec/Sudomy) - Subdomain Enumeration & Analysis.
+- [TheFatRat](https://github.com/Screetsec/TheFatRat) - Exploiting tools which compiles a malware.
+- [FinDOM-XSS](https://github.com/dwisiswant0/findom-xss) - Finding potential DOM based XSS vulnerability.
+- [karen](https://github.com/hrtywhy/karen) - Web application vulnerability scanner.
+- [SVScanner](https://github.com/radenvodka/SVScanner) - Scanner Vulnerability And MaSsive Exploit.
+- [PENTOL](https://github.com/radenvodka/PENTOL) - Plugin Fiddler for Pentester.
 
 ## Community
 
