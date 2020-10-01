@@ -179,6 +179,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Museum Indonesia CLI](https://github.com/maulana20/museum-id) - Open source Show Data Museum in Indonesia via Command-CLI.
 - [Data Wilayah](https://github.com/codenoid/Data-Wilayah.js) - Indonesia territory data in Javascript, so you don't backend/database
 - [AnimateOnScroll](https://github.com/michalsnik/aos) - AnimateOnScroll Javascript, easy to use
+- [LightboxJS](https://github.com/lokesh/lightbox2) - LightboxJS, is small javascript library used to overlay images on top of the current page
 
 ## Java
 
