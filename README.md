@@ -351,6 +351,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Kalimantan Selatan Javascript User Group](https://github.com/KalselJS)
 - [BekasiJS](https://github.com/bekasijs)
 - [SurabayaJS](https://github.com/SurabayaJS)
+- [Android Developer Bandung](https://github.com/AndroidDeveloperBandung)
+- [Pascal Indonesia](https://github.com/pascal-id)
+- [Swift Indonesia](https://github.com/SwiftyID)
+- [Rust Indonesia](https://github.com/rustid)
 
 ## License
 
