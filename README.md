@@ -182,6 +182,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Java
 
 - [AndKasir](https://github.com/andriawan/AndKasir) - AndKasir merupakan Aplikasi Open Source berbasis Desktop yang dibangun dengan teknologi Java untuk kebutuhan retail perusahaan menengah dalam mengatur aktifitas barang masuk dan keluar.
+- [BangunDatar](https://github.com/rinaldipratama/BangunDatar) - Program sederhana berbasis CLI untuk menghitung luas dan keliling bangun datar dengan Java menggunakan teknik OOP.
 
 ## Angular
 
@@ -250,12 +251,14 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [MIKHMON - MikroTik Hotspot Monitor](https://github.com/laksa19/mikhmonv3)- MikroTik Hotspot Monitor adalah aplikasi berbasis web (MikroTik API PHP class) untuk membantu manajemen Hotspot MikroTik. Khususnya MikroTik yang tidak mendukung User Manager.
 - [Pub/Sub Redis for PHP](https://github.com/RioRizkyRainey/pubsub-redis-php) - Implementasi Publisher-Subscriber Pattern pada PHP menggunakan Redis
 - [PHP-Spellchecker](https://github.com/RioRizkyRainey/PHP-Spellchecker) - Spellchecker atau Typo detector menggunakan PHP. Tersedia juga assets dictionary untuk Bahasa Indonesia
+- [ams_native](https://github.com/m45rud/ams_native) -  Aplikasi Sederhana Manajemen Surat dengan PHP MySQLi.
 
 ## CodeIgniter
 
 - [Gas ORM](https://github.com/toopay/gas-orm) - A lighweight and easy-to-use ORM for CodeIgniter.
 - [SunQA](https://github.com/SunDi3yansyah/SunQA) - Simple App Question Answer like Stackoverflow.
 - [CodeIgniter Websocket Apache Secure](https://github.com/aacassandra/CodeIgniter-Websocket-Apache-Secure) - Combination of CodeIgniter + Ratchet Websocket with Secure Connection.
+- [arsip](https://github.com/m45rud/arsip) - Aplikasi Sederhana Manajemen Arsip Data Siswa.
 
 ## Laravel
 
