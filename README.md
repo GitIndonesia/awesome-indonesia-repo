@@ -272,6 +272,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Dokularavel](https://github.com/crocodic-studio/dokularavel) - DOKU Payment Gateway Library for Laravel.
 - [Free PMO](https://github.com/nafiesl/free-pmo) - Project management software for freelancers or agencies, built with Laravel 5.
 - [LaraCed (Laravel Creator-Editor-Destroyer)](https://github.com/RioRizkyRainey/LaraCed) - This package automatically inserts/updates creator, editor and destroyer on your table migrations.
+- [Laravel Page Speed](https://github.com/renatomarinho/laravel-page-speed) - Simple package to minify HTML output on demand which results in a 35%+ optimization.
 
 ## Slim
 
