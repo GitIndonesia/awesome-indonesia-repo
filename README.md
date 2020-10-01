@@ -178,6 +178,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Simple Web Storage](https://github.com/sutanlab/simple-webstorage) - Lightweight utilities that can make easier to access application storage in client browser.
 - [Museum Indonesia CLI](https://github.com/maulana20/museum-id) - Open source Show Data Museum in Indonesia via Command-CLI.
 - [Data Wilayah](https://github.com/codenoid/Data-Wilayah.js) - Indonesia territory data in Javascript, so you don't backend/database
+- [Express Typescript Backend Base + Sequelize](https://github.com/prayuditb/express-backend-sequelize) - This is boilerplate of Express.js, Sequelize written in Typescript. Also using ApiDoc for easier writing documentation docker container ready.
 
 ## Java
 
