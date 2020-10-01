@@ -86,6 +86,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group in Indonesia.
 - [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [Belajar ngoding dalam bahasa Indonesia](https://github.com/amuritna/belajar-ngoding-bhs-indo) - A list of Indonesian resources for learning to code.
+- [DAFTAR-API-LOKAL-INDONESIA](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) - Berisi API tentang Data Indonesia ataupun API yang dibuat oleh developer Indonesia <3
 
 ## Books
 
