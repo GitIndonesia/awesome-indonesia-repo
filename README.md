@@ -47,9 +47,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Yii](#yii)
   - [Plugin](#plugin)
   - [Python](#python)
-- [R](#r)
+  - [R](#r)
   - [Natural Language Processing](#natural-language-processing)
   - [Miscellaneous](#miscellaneous)
+  - [Web Application Security](#web-application-security)
   - [Community](#community)
   - [License](#license)
 
@@ -321,6 +322,15 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Topojson of Indonesia](https://github.com/tvalentius/Indonesia-topojson) - TopoJSON of Indonesia (Kota/Kabupaten Level), useful for data visualisation.
 - [Unblock host ID](https://github.com/gvoze32/unblockhostid) - Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa harus menggunakan vpn.
 - [OpenRetail](https://github.com/rudi-krsoftware/open-retail) - Perangkat lunak open source yang dikembangkan khusus untuk bidang usaha ritel, grosir, toko bangunan, toko komputer, toko buku, counter hp, pos, point of sale, kasir dan bidang usaha lainnya yang sejenis.
+
+## Web Application Security
+
+- [Sudomy] (https://github.com/Screetsec/Sudomy) - Subdomain Enumeration & Analysis
+- [TheFatRat] (https://github.com/Screetsec/TheFatRat) - Exploiting tools which compiles a malware
+- [FinDOM-XSS] (https://github.com/dwisiswant0/findom-xss) - Finding potential DOM based XSS vulnerability
+- [karen] - (https://github.com/hrtywhy/karen) - Web application vulnerability scanner
+- [SVScanner] - (https://github.com/radenvodka/SVScanner) - Scanner Vulnerability And MaSsive Exploit
+- [PENTOL] - (https://github.com/radenvodka/PENTOL) - Plugin Fiddler for Pentester
 
 ## Community
 
