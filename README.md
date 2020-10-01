@@ -48,6 +48,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Plugin](#plugin)
   - [Python](#python)
   - [Security] (#security)
+  - [Internet of Thing] (#iot)
+
 - [R](#r)
   - [Natural Language Processing](#natural-language-processing)
   - [Miscellaneous](#miscellaneous)
