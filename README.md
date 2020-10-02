@@ -250,6 +250,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [MIKHMON - MikroTik Hotspot Monitor](https://github.com/laksa19/mikhmonv3)- MikroTik Hotspot Monitor adalah aplikasi berbasis web (MikroTik API PHP class) untuk membantu manajemen Hotspot MikroTik. Khususnya MikroTik yang tidak mendukung User Manager.
 - [Pub/Sub Redis for PHP](https://github.com/RioRizkyRainey/pubsub-redis-php) - Implementasi Publisher-Subscriber Pattern pada PHP menggunakan Redis
 - [PHP-Spellchecker](https://github.com/RioRizkyRainey/PHP-Spellchecker) - Spellchecker atau Typo detector menggunakan PHP. Tersedia juga assets dictionary untuk Bahasa Indonesia
+- [playSMS](https://github.com/antonraharja/playSMS) - playSMS is a free and open source SMS management software, a web interface for SMS gateways and bulk SMS services.
 
 ## CodeIgniter
 
