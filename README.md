@@ -100,7 +100,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Pusaka CMS](https://github.com/codepolitanlab/pusakacms) - File-based CMS build with CodeIgniter Framework.
 - [Elybin CMS](https://github.com/elybin/ElybinCMS) - Sistem manajemen konten gratis yang berfokus kepada kegunaan, kecepatan, dan kemudahan.
 - [Fiyo CMS](https://github.com/FiyoCMS/FiyoCMS) - CMS Open Source with Easy Design, Fast Load, and SEO Friendly.
-- [Wayang CMS](https://github.com/Wayang-CMS/WayangCMS) - Wayang CMS is Open Source CMS made in Indonesia.
 - [HTMLy](https://github.com/danpros/htmly) - HTMLy is an Databaseless or Flat-File Blogging Platform prioritizes simplicity and speed written in PHP.
 - [PopojiCMS](https://github.com/PopojiCMS/PopojiCMS) - Buat Sendiri Rasa Webmu.
 
@@ -124,6 +123,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
 - [React Komik](https://github.com/sonnylazuardi/react-komik) - ReactJS based comic strip creator using fabric.js canvas rendering.
+- [Stisla](https://github.com/stisla/stisla) - A Free Bootstrap Admin Template which will help you to speed up your project and design your own dashboard UI
 
 ## Game
 
@@ -136,15 +136,15 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Inflector](https://github.com/gedex/inflector) - Inflector pluralizes and singularizes English nouns.
 - [Imaginative Go](https://github.com/sonyarianto/imaginative-go) - Web to learn Go.
 - [Snowboard](https://github.com/bukalapak/snowboard) - API blueprint parser and renderer.
-- [Shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go.
-- [Proctor](https://github.com/gojektech/proctor) - A Developer-Friendly Automation Orchestrator.
+- [Shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go.
+- [Proctor](https://github.com/gojek/proctor) - A Developer-Friendly Automation Orchestrator.
 - [GoTral](https://github.com/codenoid/GoTral) - Go cenTralized config, for distributed software
 - [File.io Clone](https://github.com/codenoid/file.io) - File.io clone, file sharing with expiration
 
 ## Haskell
 
-- [juancuk-hs](https://github.com/shitiomatic/juancuk-hs) - Onion vanity URL generator written in Haskell
-- [blockell](https://github.com/shitiomatic/blockell) - Experimental blockchain implementation using Haskell
+- [juancuk-hs](https://github.com/bejoistic/juancuk-hs) - Onion vanity URL generator written in Haskell
+- [blockell](https://github.com/bejoistic/blockell) - Experimental blockchain implementation using Haskell
 
 ## Rust
 
@@ -210,7 +210,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Gridsome Starter
 
-- [Gridsome Tailwind Starter](https://github.com/bogordesaincom/gridsome-tailwindcss-starter) - Gridsome Starter with Tailwindcss Integration :wave: .
 
 ## Jekyll Theme
 
@@ -272,6 +271,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Dokularavel](https://github.com/crocodic-studio/dokularavel) - DOKU Payment Gateway Library for Laravel.
 - [Free PMO](https://github.com/nafiesl/free-pmo) - Project management software for freelancers or agencies, built with Laravel 5.
 - [LaraCed (Laravel Creator-Editor-Destroyer)](https://github.com/RioRizkyRainey/LaraCed) - This package automatically inserts/updates creator, editor and destroyer on your table migrations.
+- [Indoregion](https://github.com/azishapidin/indoregion) - Package Data Provinsi, Kabupaten/Kota, Kecamatan/Distrik dan Desa/Kelurahan di Indonesia.
 
 ## Slim
 
@@ -319,7 +319,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) - Compiled ABP rules to block various ads in Indonesian based site.
 - [Indonesia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/indonesia.md) - Popular repositories in Indonesia.
 - [Topojson of Indonesia](https://github.com/tvalentius/Indonesia-topojson) - TopoJSON of Indonesia (Kota/Kabupaten Level), useful for data visualisation.
-- [Unblock host ID](https://github.com/gvoze32/unblockhostid) - Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa harus menggunakan vpn.
 - [OpenRetail](https://github.com/rudi-krsoftware/open-retail) - Perangkat lunak open source yang dikembangkan khusus untuk bidang usaha ritel, grosir, toko bangunan, toko komputer, toko buku, counter hp, pos, point of sale, kasir dan bidang usaha lainnya yang sejenis.
 
 ## Community
