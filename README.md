@@ -93,6 +93,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Buku Git](https://github.com/endymuhardin/buku-git) - Buku Version Control menggunakan Git.
 - [E-Library MDC](https://github.com/MuhammadiyahDeveloperClub/E-Library) - E-Library yang berisi kumpulan E-Book tentang dunia IT.
 - [JVM Handbook](https://github.com/bliblidotcom/jvm-handbook) - Buku pembahasan detil tentang cara kerja dan internal JVM.
+- [Buku Tailwind CSS](https://multinity.id/book/tailwind-css) - Sebuah framework CSS untuk developer yang memiliki phobia terhadap CSS.
+- [React & Express](https://bukureact.id/) - Panduan Hebat Menguasai ReactJS dan Ekosistemnya
+Mudah Dipahami, Detail, Sistematis, Terstruktur, Disertai Studi Kasus
 
 ## Content Management System
 
@@ -178,6 +181,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Simple Web Storage](https://github.com/sutanlab/simple-webstorage) - Lightweight utilities that can make easier to access application storage in client browser.
 - [Museum Indonesia CLI](https://github.com/maulana20/museum-id) - Open source Show Data Museum in Indonesia via Command-CLI.
 - [Data Wilayah](https://github.com/codenoid/Data-Wilayah.js) - Indonesia territory data in Javascript, so you don't backend/database
+- [SSG Nextjs](https://github.com/rifkiandriyanto/portfolio-nextjs) - Belajar Static Site Generator dengan nextjs
 
 ## Java
 
