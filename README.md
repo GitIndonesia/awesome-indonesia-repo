@@ -238,6 +238,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Blitz CLI](https://github.com/sonnylazuardi/blitz-cli) - A command line app to check cgv blitz movie seats.
 - [Manokwari](https://github.com/BlankOn/manokwari) - A desktop shell for GNOME 3 with GTK+ and HTML5 frontend.
 - [AndKamus](https://github.com/andriawan/AndKamus) - Aplikasi kamus Bahasa Indonesia - Bahasa Inggris berbasis CLI dikembangkan dengan C++.
+- [Qur'an EPUB](https://github.com/rizaumami/quran-epub) - Skrip bash untuk memotong dan menggabungkan berkas Al Qur'an dan terjemah dari http://tanzil.net untuk menghasilkan berkas [EPUB](https://en.wikipedia.org/wiki/EPUB).
 
 ## PHP
 
