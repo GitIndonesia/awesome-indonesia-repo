@@ -95,7 +95,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Buku Git](https://github.com/endymuhardin/buku-git) - Buku Version Control menggunakan Git.
 - [E-Library MDC](https://github.com/MuhammadiyahDeveloperClub/E-Library) - E-Library yang berisi kumpulan E-Book tentang dunia IT.
 - [JVM Handbook](https://github.com/bliblidotcom/jvm-handbook) - Buku pembahasan detil tentang cara kerja dan internal JVM.
-
+* [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
+* [Ebook Pemrograman Web dengan PHP dan MySQL](https://www.academia.edu/29380509/Ebook_Pemrograman_Web_dengan_PHP_dan_MySQL)
 ## Content Management System
 
 - [Lentera](https://github.com/laravel-indonesia/lentera) - Learning Management from Nusantara.
