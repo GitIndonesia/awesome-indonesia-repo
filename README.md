@@ -95,6 +95,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Buku Git](https://github.com/endymuhardin/buku-git) - Buku Version Control menggunakan Git.
 - [E-Library MDC](https://github.com/MuhammadiyahDeveloperClub/E-Library) - E-Library yang berisi kumpulan E-Book tentang dunia IT.
 - [JVM Handbook](https://github.com/bliblidotcom/jvm-handbook) - Buku pembahasan detil tentang cara kerja dan internal JVM.
+- [Catatan Koding Rust](https://github.com/ywnn/memo-berkarat) - Catatan pengantar untuk belajar bahasa pemrograman Rust.
 
 ## Content Management System
 
