@@ -24,6 +24,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
   - [Books](#books)
   - [Content Management System](#content-management-system)
   - [Databases](#databases)
+  - [Deno](#Deno)
   - [Framework](#framework)
   - [Front-end Development](#front-end-development)
   - [Game](#game)
@@ -108,6 +109,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Databases
 
 - [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia.
+
+## Deno
+
+- [Denovel](https://github.com/fauzan121002/denovel) - A Deno Framework For Web Artisan - Inspired by Laravel
+- [Rupiah](https://github.com/andriawan/rupiah_ts) - Simple and lightweight rupiah currency format written in typescript
 
 ## Framework
 
