@@ -140,6 +140,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [GoTral](https://github.com/codenoid/GoTral) - Go cenTralized config, for distributed software
 - [File.io Clone](https://github.com/codenoid/file.io) - File.io clone, file sharing with expiration
 - [Excel2Json](https://github.com/FerdinaKusumah/excel2json) - Convert your excel or excel datasource to json easily.
+- [Teler](https://github.com/kitabisa/teler) - Real-time intrusion detection and threat alert based on web log.
+- [Galer](https://github.com/dwisiswant0/galer) - A fast tool to fetch URLs from HTML attributes by crawl-in.
+- [Go-Stare](https://github.com/dwisiswant0/go-stare) - A fast & light web screenshot without headless browser but Chrome DevTools Protocol.
 
 ## Haskell
 
