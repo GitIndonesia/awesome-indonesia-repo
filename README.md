@@ -142,6 +142,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Proctor](https://github.com/gojek/proctor) - A Developer-Friendly Automation Orchestrator.
 - [GoTral](https://github.com/codenoid/GoTral) - Go cenTralized config, for distributed software
 - [File.io Clone](https://github.com/codenoid/file.io) - File.io clone, file sharing with expiration
+- [Excel2Json](https://github.com/FerdinaKusumah/excel2json) - Convert your excel or excel datasource to json easily.
+- [Sepamin](https://github.com/FerdinaKusumah/sepamin) - Another spamming email that build from gmail.
 
 ## Haskell
 
