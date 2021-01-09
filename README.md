@@ -131,6 +131,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Word Chain](https://github.com/sonnylazuardi/wordchain) - Multiplayer word chaining game using AngularJS and firebase.
 - [KatanyaGomoku](https://github.com/mgilangjanuar/KatanyaGomoku) - Modification Game of Tic Tac Toe using Java Languange.
+- [Pocong Runner](https://github.com/billalxcode/PocongRunner) - Mini game dengan karakter utama yaitu Pocong.
 
 ## Go
 
