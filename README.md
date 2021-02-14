@@ -121,6 +121,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Front-end Development
 
+- [React Uikit CLI](https://github.com/rismanss/react-uikit-cli) - CLI for create uikit in react project support with storybook.
 - [Bootstrap Markdown](https://github.com/toopay/bootstrap-markdown) - Bootstrap plugin for markdown editing.
 - [Marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
