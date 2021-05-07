@@ -118,6 +118,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Scarlets](https://github.com/ScarletsFiction/Scarlets) - Multipurpose and high performance PHP framework
 - [ScarletsFrame](https://github.com/ScarletsFiction/ScarletsFrame) - A frontend framework that can help you write a simple web structure
 - [Brutal PHP Framework](https://github.com/sonyarianto/brutal-php-framework) - A simple PHP framework for vanilla PHP programmer with taste of Twig and Symfony Routing. Database and other component is up to programmer to decide.
+- [Rakit Framework](https://github.com/esyede/rakit) - Kerangka kerja PHP sederhana, ringan dan modular. Berbahasa Indonesia.
 
 ## Front-end Development
 
