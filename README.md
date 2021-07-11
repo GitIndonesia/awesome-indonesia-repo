@@ -198,6 +198,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Data Wilayah](https://github.com/codenoid/Data-Wilayah.js) - Indonesia territory data in Javascript, so you don't backend/database
 - [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) - [Figma plugin] copy & paste color directly from your phone's camera to design plugins
 - [Aksara UI](https://github.com/kata-ai/aksara-ui) - Aksara UI is an implementation of Aksara using the React framework
+- [Generate Passphrase](https://github.com/aldy505/generate-passphrase) - A secure random passphrase library of English words.
+
 ## Java
 
 - [AndKasir](https://github.com/andriawan/AndKasir) - AndKasir merupakan Aplikasi Open Source berbasis Desktop yang dibangun dengan teknologi Java untuk kebutuhan retail perusahaan menengah dalam mengatur aktifitas barang masuk dan keluar.
