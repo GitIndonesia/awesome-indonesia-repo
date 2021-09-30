@@ -306,6 +306,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Excel2api](https://github.com/FerdinaKusumah/excel2api) - Convert your excel data as api.
 - [Simple Face Recognition](https://github.com/FerdinaKusumah/face-recognition-webservice) - Simple face recognition with example.
 - [Corona data api](https://github.com/FerdinaKusumah/corona-api) - Corona data api with realtime data.
+- [ATM CLI](https://github.com/billalxcode/ATM-cli) - ATM based on Command Line Interface
 
 # R
 
