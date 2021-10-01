@@ -90,7 +90,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Books
 
-- [Free Programming Books Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-id.md) - Freely available programming books with Indonesia Language.
+- [Free Programming Books Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md) - Freely available programming books with Indonesia Language.
 - [Buku Git](https://github.com/endymuhardin/buku-git) - Buku Version Control menggunakan Git.
 - [E-Library MDC](https://github.com/MuhammadiyahDeveloperClub/E-Library) - E-Library yang berisi kumpulan E-Book tentang dunia IT.
 - [JVM Handbook](https://github.com/bliblidotcom/jvm-handbook) - Buku pembahasan detil tentang cara kerja dan internal JVM.
