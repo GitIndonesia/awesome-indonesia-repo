@@ -148,6 +148,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [KatanyaGomoku](https://github.com/mgilangjanuar/KatanyaGomoku) - Modification Game of Tic Tac Toe using Java Languange.
 - [WhatsApp bot](https://github.com/SlmnMEDIA/whatsapp-bot) - WhatsApp bot insideheart basis linux
 - [Game Online Store](https://github.com/DeVoresyah/ZStore) - an online game store created with React Native
+- [Keking](https://github.com/bayue48/keking-bot) - Discord music bot made with discord.js
 
 ## Go
 
