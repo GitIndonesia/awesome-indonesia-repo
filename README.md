@@ -5,10 +5,17 @@
 [![Gitter](https://img.shields.io/:chat-on_gitter-ED2067.svg)](https://gitter.im/GitIndonesia/awesome-indonesia-repo)
 [![Country](https://img.shields.io/badge/country-indonesia-blue.svg)](#)
 
+#### EN
 A curated list of awesome and amazing repositories created and contributed to by Indonesians.<br>
 This list aims to inspire others and hopefully give encouragement for individuals to contribute in open-source development.
 
-Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
+
+#### ID
+Kumpulan repositori keren yang dibuat dan dikontribusikan oleh orang-orang Indonesia.<br>
+Daftar ini dibuat dengan tujuan menginspirasi orang banyak dan memberikan motivasi untuk setiap individu untuk berkontribusi dalam pengembangan *open-source*.
+
+Terinspirasi oleh [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
 ## Contributing
 
@@ -16,47 +23,46 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Table of Contents
 
-- [Awesome Indonesia Repo](#awesome-indonesia-repo)
-  - [Contributing](#contributing)
-  - [Table of Contents](#table-of-contents)
-  - [Android](#android)
-  - [Awesome List](#awesome-list)
-  - [Books](#books)
-  - [Content Management System](#content-management-system)
-  - [Climate Change](#climate-change)
-  - [Databases](#databases)
-  - [Framework](#framework)
-  - [Front-end Development](#front-end-development)
-  - [Game](#game)
-  - [Go](#go)
-  - [Haskell](#haskell)
-  - [Rust](#rust)
-  - [JavaScript](#javascript)
-  - [Java](#java)
-  - [Angular](#angular)
-  - [Express](#express)
-  - [Vue](#vue)
-  - [Gridsome Starter](#gridsome-starter)
-  - [Jekyll Theme](#jekyll-theme)
-  - [Learn](#learn)
-  - [Linux Software](#linux-software)
-  - [PHP](#php)
-  - [CodeIgniter](#codeigniter)
-  - [Laravel](#laravel)
-  - [Slim](#slim)
-  - [Symfony](#symfony)
-  - [Yii](#yii)
-  - [Plugin](#plugin)
-  - [Python](#python)
-  - [R](#r)
-  - [Ruby](#ruby)
-  - [OSINT](#osint)
-
-  - [Natural Language Processing](#natural-language-processing)
-  - [Miscellaneous](#miscellaneous)
-  - [Community](#community)
-  - [Content Creator](#content-creator)
-  - [License](#license)
+* [Awesome Indonesia Repo](#awesome-indonesia-repo)
+    * [Contributing](#contributing)
+    * [Table of Contents](#table-of-contents)
+    * [Android](#android)
+    * [Awesome List](#awesome-list)
+    * [Books](#books)
+    * [Content Management System](#content-management-system)
+    * [Climate Change](#climate-change)
+    * [Databases](#databases)
+    * [Framework](#framework)
+    * [Front-end Development](#front-end-development)
+    * [Game](#game)
+    * [Go](#go)
+    * [Haskell](#haskell)
+    * [Rust](#rust)
+    * [JavaScript](#javascript)
+    * [Java](#java)
+    * [Angular](#angular)
+    * [Express](#express)
+    * [Vue](#vue)
+    * [Gridsome Starter](#gridsome-starter)
+    * [Jekyll Theme](#jekyll-theme)
+    * [Learn](#learn)
+    * [Linux Software](#linux-software)
+    * [PHP](#php)
+    * [CodeIgniter](#codeigniter)
+    * [Laravel](#laravel)
+    * [Slim](#slim)
+    * [Symfony](#symfony)
+    * [Yii](#yii)
+    * [Plugin](#plugin)
+    * [Python](#python)
+    * [R](#r)
+    * [Ruby](#ruby)
+    * [OSINT](#osint)
+* [Natural Language Processing](#natural-language-processing)
+* [Miscellaneous](#miscellaneous)
+* [Community](#community)
+* [Content Creator](#content-creator)
+* [License](#license)
 
 ## Android
 
@@ -337,6 +343,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Corona data api](https://github.com/FerdinaKusumah/corona-api) - Corona data api with realtime data.
 - [Generate Random Password](https://github.com/hrtywhy/Random-Password-Generator) - Generate your random password and send it via Gmail
 - [PDDIKTI.kemdikbud](https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API) - Unofficial pddikti kemdikbud API Wrapper
+- [Outlook Email Automation](https://github.com/RussellDash332/email-automation) - Windows automated Outlook email sender using the `pywin32` library
 
 # R
 
@@ -393,6 +400,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [JemberDev](https://github.com/jember-dev)
 - [Banyuwangi Dev](https://github.com/banyuwangidev)
 - [Data Science Indonesia](https://github.com/datascienceid)
+- [Data Folks Indonesia](https://github.com/data-folks)
 - [Kalimantan Selatan Javascript User Group](https://github.com/KalselJS)
 - [BekasiJS](https://github.com/bekasijs)
 - [SurabayaJS](https://github.com/SurabayaJS)
@@ -415,12 +423,13 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Kelas Terbuka](https://www.youtube.com/c/KelasTerbuka)
 - [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
 - [Indonesia Belajar](https://www.youtube.com/c/IndonesiaBelajarKomputer)
-- [Erico Darmawan Handoyo0](https://www.youtube.com/c/EricoDarmawanHandoyo)
+- [Erico Darmawan Handoyo](https://www.youtube.com/c/EricoDarmawanHandoyo)
+- [NgodingPython](https://www.youtube.com/c/NgodingPython)
+
+## Hacktoberfest 2021
 
 ## License
 
 ![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
-##Hactoberfest 2021
