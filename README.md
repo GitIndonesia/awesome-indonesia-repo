@@ -1,7 +1,6 @@
-# Awesome Indonesia Repo
+# Awesome Indonesia Repo [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome/)
-[![TravisCI](https://api.travis-ci.org/GitIndonesia/awesome-indonesia-repo.svg)](https://travis-ci.org/GitIndonesia/awesome-indonesia-repo)
 [![Gitter](https://img.shields.io/:chat-on_gitter-ED2067.svg)](https://gitter.im/GitIndonesia/awesome-indonesia-repo)
 [![Country](https://img.shields.io/badge/country-indonesia-blue.svg)](#)
 
@@ -21,48 +20,45 @@ Terinspirasi oleh [sindresorhus/awesome](https://github.com/sindresorhus/awesome
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-## Table of Contents
+## Contents
 
-* [Awesome Indonesia Repo](#awesome-indonesia-repo)
-    * [Contributing](#contributing)
-    * [Table of Contents](#table-of-contents)
-    * [Android](#android)
-    * [Awesome List](#awesome-list)
-    * [Books](#books)
-    * [Content Management System](#content-management-system)
-    * [Climate Change](#climate-change)
-    * [Databases](#databases)
-    * [Framework](#framework)
-    * [Front-end Development](#front-end-development)
-    * [Game](#game)
-    * [Go](#go)
-    * [Haskell](#haskell)
-    * [Rust](#rust)
-    * [JavaScript](#javascript)
-    * [Java](#java)
-    * [Angular](#angular)
-    * [Express](#express)
-    * [Vue](#vue)
-    * [Gridsome Starter](#gridsome-starter)
-    * [Jekyll Theme](#jekyll-theme)
-    * [Learn](#learn)
-    * [Linux Software](#linux-software)
-    * [PHP](#php)
-    * [CodeIgniter](#codeigniter)
-    * [Laravel](#laravel)
-    * [Slim](#slim)
-    * [Symfony](#symfony)
-    * [Yii](#yii)
-    * [Plugin](#plugin)
-    * [Python](#python)
-    * [R](#r)
-    * [Ruby](#ruby)
-    * [OSINT](#osint)
-* [Natural Language Processing](#natural-language-processing)
-* [Miscellaneous](#miscellaneous)
-* [Community](#community)
-* [Content Creator](#content-creator)
-* [License](#license)
+- [Android](#android)
+- [Awesome List](#awesome-list)
+- [Books](#books)
+- [Content Management System](#content-management-system)
+- [Climate Change](#climate-change)
+- [Databases](#databases)
+- [Frameworks](#frameworks)
+- [Front-end Development](#front-end-development)
+- [Games](#games)
+- [Go](#go)
+- [Haskell](#haskell)
+- [Rust](#rust)
+- [JavaScript](#javascript)
+- [Java](#java)
+- [Angular](#angular)
+- [Express](#express)
+- [Vue](#vue)
+- [Gridsome Starter](#gridsome-starter)
+- [Jekyll Theme](#jekyll-theme)
+- [Learn](#learn)
+- [Linux Software](#linux-software)
+- [PHP](#php)
+- [CodeIgniter](#codeigniter)
+- [Laravel](#laravel)
+- [Slim](#slim)
+- [Symfony](#symfony)
+- [Yii](#yii)
+- [Plugins](#plugins)
+- [Python](#python)
+- [R](#r)
+- [Ruby](#ruby)
+- [OSINT](#osint)
+- [Natural Language Processing](#natural-language-processing)
+- [Miscellaneous](#miscellaneous)
+- [Community](#community)
+- [Content Creator](#content-creator)
+- [Contributors](#contributors)
 
 ## Android
 
@@ -82,13 +78,16 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [WallpaperBoard](https://github.com/danimahardhika/wallpaperboard) - Android wallpaper dashboard library.
 - [Nike+ Running - React Native](https://github.com/sonnylazuardi/react-native-nike-running) - UI & UX prototype of redesigned Nike+ Running App.
 - [Subtitle CollapsingToolbarLayout](https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle) - Standard CollapsingToolbarLayout with subtitle support.
-- [Benih](https://github.com/zetbaitsu/Benih) - A standard template for Android apps by Zelory
-- [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) - Customizable Item Setting View for Android
+- [Benih](https://github.com/zetbaitsu/Benih) - A standard template for Android apps by Zelory.
+- [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) - Customizable Item Setting View for Android.
 - [DraggableView](https://github.com/hyuwah/DraggableView) - Android library to easily make floating draggable view (similar to Tokopedia's lucky egg or Bukalapak's maudikode).
 - [Android Image Picker](https://github.com/WendyYanto/android-image-picker) - Non-blocking image gallery library built using Kotlin and Coroutine to help users when choosing images.
 - [TicTacToe](https://github.com/WendyYanto/android-tic-tac-toe) - Android Tic-Tac-Toe game built using Kotlin.
 - [SheenValidator](https://github.com/rizmaulana/SheenValidator) - Android library to ease form validation.
-- [SmartMarker](https://github.com/utsmannn/SmartMarker) - Smart helper for marker movement in Google Maps and Mapbox
+- [SmartMarker](https://github.com/utsmannn/SmartMarker) - Smart helper for marker movement in Google Maps and Mapbox.
+- [a-navigator](https://github.com/rh-id/a-navigator) - Navigation framework for Android.
+- [a-provider](https://github.com/rh-id/a-provider) -  Service Locator library for Android.
+- [a-logger](https://github.com/rh-id/a-logger) - Simple log library for Android.
 
 ## Awesome List
 
@@ -139,6 +138,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Scarlets](https://github.com/ScarletsFiction/Scarlets) - Multipurpose and high performance PHP framework.
 - [ScarletsFrame](https://github.com/ScarletsFiction/ScarletsFrame) - A frontend framework that can help you write a simple web structure.
 - [Brutal PHP Framework](https://github.com/sonyarianto/brutal-php-framework) - A simple PHP framework for vanilla PHP programmer with taste of Twig and Symfony Routing. Database and other component is up to programmer to decide.
+- [Lunox](https://github.com/kodepintar/lunox) - Laravel-Flavoured Node.js Framework.
 
 ## Front-end Development
 
@@ -152,9 +152,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [Word Chain](https://github.com/sonnylazuardi/wordchain) - Multiplayer word chaining game using AngularJS and Firebase.
 - [KatanyaGomoku](https://github.com/mgilangjanuar/KatanyaGomoku) - Modified Tic-Tac-Toe using Java.
-- [WhatsApp bot](https://github.com/SlmnMEDIA/whatsapp-bot) - WhatsApp bot insideheart basis linux
+- [WhatsApp bot](https://github.com/SlmnMEDIA/whatsapp-bot) - WhatsApp bot insideheart basis linux.
 - [Game Online Store](https://github.com/DeVoresyah/ZStore) - Online game store created with React Native.
-- [Keking](https://github.com/bayue48/keking-bot) - Discord music bot made with discord.js
+- [Keking](https://github.com/bayue48/keking-bot) - Discord music bot made with discord.js.
 
 ## Go
 
@@ -164,28 +164,29 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Snowboard](https://github.com/bukalapak/snowboard) - API blueprint parser and renderer.
 - [Shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go.
 - [Proctor](https://github.com/gojek/proctor) - A Developer-Friendly Automation Orchestrator.
-- [GoTral](https://github.com/codenoid/GoTral) - Go cenTralized config, for distributed software
-- [File.io Clone](https://github.com/codenoid/file.io) - File.io clone, file sharing with expiration
+- [GoTral](https://github.com/codenoid/GoTral) - Go cenTralized config, for distributed software.
+- [File.io Clone](https://github.com/codenoid/file.io) - File.io clone, file sharing with expiration.
 - [Go-Payment](https://github.com/imrenagi/go-payment) - Payment module used as proxy for multiple payment gateways. Currently it only supports Midtrans SNAP and Xendit Ewallet and XenInvoice.
 - [Excel2Json](https://github.com/FerdinaKusumah/excel2json) - Convert your excel or excel datasource to json easily.
 - [Teleport](https://github.com/muhammadmuhlas/teleport) - A simple tool based on Go to migrate git repository.
-- [PHC Crypto](https://github.com/aldy505/phc-crypto) - Password hashing algorithm based on PHC standard, inspired by Upash package from Node.js
+- [PHC Crypto](https://github.com/aldy505/phc-crypto) - Password hashing algorithm based on PHC standard, inspired by Upash package from Node.js.
 
 ## Haskell
 
-- [juancuk-hs](https://github.com/bejoistic/juancuk-hs) - Onion vanity URL generator written in Haskell
-- [blockell](https://github.com/bejoistic/blockell) - Experimental blockchain implementation using Haskell
+- [juancuk-hs](https://github.com/bejoistic/juancuk-hs) - Onion vanity URL generator written in Haskell.
+- [blockell](https://github.com/bejoistic/blockell) - Experimental blockchain implementation using Haskell.
 
 ## Rust
 
-- [Fido](https://github.com/codenoid/Fido) - Distributed Storage, Easily distribute your data accross disk/node
+- [Fido](https://github.com/codenoid/Fido) - Distributed Storage, Easily distribute your data accross disk/node.
 
 ## JavaScript
-- [PandaJS](https://github.com/rizki4106/pandajs) - pandajs is a library for create REST SERVER
+
+- [PandaJS](https://github.com/rizki4106/pandajs) - Pandajs is a library for create REST SERVER.
 - [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 - [jQuery Calx](https://github.com/xsanisty/jquery-calx) - jQuery plugin for creating formula-based calculation.
 - [JVFloat.js](https://github.com/maman/JVFloat.js) - jQuery / Zepto plugin to emulate Matt D. Smith's floating placeholder text.
-- [Meteoris2](https://github.com/radiegtya/meteoris2) - Realtime Javascript Boilerplate base on MeteorJS Framework.
+- [Meteoris2](https://github.com/radiegtya/meteoris2) - Realtime JavaScript Boilerplate base on MeteorJS Framework.
 - [SimpleExcel.js](https://github.com/faisalman/simple-excel-js) - Client-side script to easily parse / convert / write any Microsoft Excel.
 - [UAParser.js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
 - [jQuery Awesome Sosmed Share Button](https://github.com/bachors/jQuery-Awesome-Sosmed-Share-Button) - Awesome social media button with share count.
@@ -194,30 +195,30 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [PHUNT](https://github.com/Kristories/phunt) - Product Hunt Command Line Client.
 - [React Simple PWA](https://github.com/BosNaufal/react-simple-pwa) - Simple Progressive Web App Built with React Js.
 - [Soya Next](https://github.com/traveloka/soya-next) - An opinionated configured Next.js framework.
-- [Angkot](https://github.com/widatama/angkot) - A searchable Jakarta’s public transportation routes.
-- [Iyem](https://github.com/lukluk/iyem) - Simple implementation multi thread in nodejs
-- [react-electron-starter](https://github.com/hikmahgumelar/react-electron-starter) - A starter for create apps with Electron and ReactJS
-- [cra-universal](https://github.com/antonybudianto/cra-universal) - Create React App companion for universal app. No eject, zero config, full HMR, and more
+- [Angkot](https://github.com/widatama/angkot) - A searchable Jakarta's public transportation routes.
+- [Iyem](https://github.com/lukluk/iyem) - Simple implementation multi thread in Node.js.
+- [react-electron-starter](https://github.com/hikmahgumelar/react-electron-starter) - A starter for create apps with Electron and ReactJS.
+- [cra-universal](https://github.com/antonybudianto/cra-universal) - Create React App companion for universal app. No eject, zero config, full HMR, and more.
 - [PodengJS](https://github.com/slaveofcode/podeng) - Simple JSON value normalization to make everything gone right.
-- [SFDatabase-js](https://github.com/ScarletsFiction/SFDatabase-js) - A database library for Browser and Nodejs.
+- [SFDatabase-js](https://github.com/ScarletsFiction/SFDatabase-js) - A database library for Browser and Node.js.
 - [SFMediaStream](https://github.com/ScarletsFiction/SFMediaStream) - HTML5 media streamer library for playing music, video, playlist, or even live streaming microphone & camera with node server.
-- [Serberries](https://github.com/ScarletsFiction/Serberries) - Nodejs live webserver that able to reload your script when running.
+- [Serberries](https://github.com/ScarletsFiction/Serberries) - Node.js live webserver that able to reload your script when running.
 - [SFFileSystem](https://github.com/ScarletsFiction/SFFileSystem) - A filesystem library for saving files inside the browser storage.
 - [SFIntercom](https://github.com/ScarletsFiction/SFIntercom) - Communication between browser's tabs with same domain.
 - [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) - A browser extension that offers audio visualization on your YouTube page with nice musical notes.
 - [Simple Web Storage](https://github.com/sutanlab/simple-webstorage) - Lightweight utilities that can make easier to access application storage in client browser.
 - [Museum Indonesia CLI](https://github.com/maulana20/museum-id) - Open source Show Data Museum in Indonesia via Command-CLI.
-- [Data Wilayah](https://github.com/codenoid/Data-Wilayah.js) - Indonesia territory data in Javascript, so you don't backend/database
-- [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) - [Figma plugin] copy & paste color directly from your phone's camera to design plugins
-- [Aksara UI](https://github.com/kata-ai/aksara-ui) - Aksara UI is an implementation of Aksara using the React framework
+- [Data Wilayah](https://github.com/codenoid/Data-Wilayah.js) - Indonesia territory data in JavaScript, so you don't backend/database.
+- [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) - Figma plugin copy & paste color directly from your phone's camera to design plugins.
+- [Aksara UI](https://github.com/kata-ai/aksara-ui) - Aksara UI is an implementation of Aksara using the React framework.
 - [Malibu](https://github.com/tinyhttp/malibu) - Framework-agnostic CSRF middleware, for Express, vanilla HTTP, Tinyhttp, Polka, and more!
 - [giscus](https://github.com/giscus/giscus) - A comments system for any site, static or dynamic, powered by GitHub Discussions.
-- [carakan.js](https://github.com/masnormen/carakanjs) - carakan.js is a small library for converting Latin script into Javanese script, also known as Aksara Jawa/Carakan.
+- [carakan.js](https://github.com/masnormen/carakanjs) - Carakan.js is a small library for converting Latin script into Javanese script, also known as Aksara Jawa/Carakan.
 
 ## Java
 
 - [AndKasir](https://github.com/andriawan/AndKasir) - AndKasir merupakan Aplikasi Open Source berbasis Desktop yang dibangun dengan teknologi Java untuk kebutuhan retail perusahaan menengah dalam mengatur aktifitas barang masuk dan keluar.
-- [KalkulatorPrefix2Digit](https://github.com/adikurniawanid/JavaKalkulatorPrefix2Digit) - Kalkulator prefix 2 digit java dengan menggunakan struktur data Stack
+- [KalkulatorPrefix2Digit](https://github.com/adikurniawanid/JavaKalkulatorPrefix2Digit) - Kalkulator prefix 2 digit java dengan menggunakan struktur data Stack.
 
 ## Angular
 
@@ -227,7 +228,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Express
 
-- [Express4 Bootstrap Starter](https://github.com/hengkiardo/express4-bootstrap-starter) - Lightweight Bootstrap NodeJS Apps Build Using ExpressJS 4.
+- [Express4 Bootstrap Starter](https://github.com/hengkiardo/express4-bootstrap-starter) - Lightweight Bootstrap Node.js Apps Build Using ExpressJS 4.
 
 ## Vue
 
@@ -236,8 +237,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Vue SoundCloud](https://github.com/mul14/vue-soundcloud) - Vuejs + SoundCloud demo app.
 - [Vue Autocomplete](https://github.com/BosNaufal/vue-autocomplete) - Autocomplete Component for Vue.js.
 - [Vue Mini Shop](https://github.com/BosNaufal/vue-mini-shop) - Mini Online Shop Built With Vue.js.
-- [Vue Loading Bar](https://github.com/BosNaufal/vue-loading-bar) - Youtube Like Loading Bar Component for Vue.js.
-- [Vue 2 Loading Bar](https://github.com/BosNaufal/vue2-loading-bar) - Simplest Youtube Like Loading Bar Component For Vue 2.
+- [Vue Loading Bar](https://github.com/BosNaufal/vue-loading-bar) - YouTube Like Loading Bar Component for Vue.js.
+- [Vue 2 Loading Bar](https://github.com/BosNaufal/vue2-loading-bar) - Simplest YouTube Like Loading Bar Component For Vue 2.
 - [Vue Simple PWA](https://github.com/BosNaufal/vue-simple-pwa) - Simple Progressive Web App Built with Vue.js.
 - [Explore GitHub](https://github.com/mazipan/explore-github) - VueJS 2 GitHub Explorer Using API v3.
 - [Salat Time](https://github.com/widatama/salat-time) - Location based daily salat schedule.
@@ -282,17 +283,18 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [playCMS](https://github.com/antonraharja/playSMS) - Web-based Mobile Portal System that it can be made to fit to various services such as an SMS gateway.
 - [Terbilang](https://github.com/mul14/terbilang-php) - Convert numbers into words in Indonesian language.
 - [SLiMS 8 Akasia](https://github.com/slims/slims8_akasia) - SLiMS is free open source software for library resources management and administration.
-- [cURL Lib](https://github.com/andhikayuana/curl-lib) - Simple Wrapper for cURL
-- [ovoid](https://github.com/lintangtimur/ovoid) - Unofficial OVO API Wrapper
-- [MIKHMON - MikroTik Hotspot Monitor](https://github.com/laksa19/mikhmonv3)- MikroTik Hotspot Monitor adalah aplikasi berbasis web (MikroTik API PHP class) untuk membantu manajemen Hotspot MikroTik. Khususnya MikroTik yang tidak mendukung User Manager.
-- [Pub/Sub Redis for PHP](https://github.com/RioRizkyRainey/pubsub-redis-php) - Implementasi Publisher-Subscriber Pattern pada PHP menggunakan Redis
-- [PHP-Spellchecker](https://github.com/RioRizkyRainey/PHP-Spellchecker) - Spellchecker atau Typo detector menggunakan PHP. Tersedia juga assets dictionary untuk Bahasa Indonesia
+- [cURL Lib](https://github.com/andhikayuana/curl-lib) - Simple Wrapper for cURL.
+- [ovoid](https://github.com/lintangtimur/ovoid) - Unofficial OVO API Wrapper.
+- [MIKHMON - MikroTik Hotspot Monitor](https://github.com/laksa19/mikhmonv3) - MikroTik Hotspot Monitor adalah aplikasi berbasis web (MikroTik API PHP class) untuk membantu manajemen Hotspot MikroTik. Khususnya MikroTik yang tidak mendukung User Manager.
+- [Pub/Sub Redis for PHP](https://github.com/RioRizkyRainey/pubsub-redis-php) - Implementasi Publisher-Subscriber Pattern pada PHP menggunakan Redis.
+- [PHP-Spellchecker](https://github.com/RioRizkyRainey/PHP-Spellchecker) - Spellchecker atau Typo detector menggunakan PHP. Tersedia juga assets dictionary untuk Bahasa Indonesia.
 - [PHP-E-Commerce](https://github.com/FadellMuhammad/E-commerce) - E-Commerce sederhana, terdapat fitur daftar,login dan profile.
+- [R_CRUD](https://github.com/ICWR-TEAM/R-CRUD) - CRUD PHP Plugins. Fungsi CRUD untuk mempermudah scripting yang berhubungan dengan CRUD.
 
 ## CodeIgniter
 
 - [Gas ORM](https://github.com/toopay/gas-orm) - A lighweight and easy-to-use ORM for CodeIgniter.
-- [SunQA](https://github.com/SunDi3yansyah/SunQA) - Simple App Question Answer like Stackoverflow.
+- [SunQA](https://github.com/SunDi3yansyah/SunQA) - Simple App Question Answer like Stack Overflow.
 - [CodeIgniter Websocket Apache Secure](https://github.com/aacassandra/CodeIgniter-Websocket-Apache-Secure) - Combination of CodeIgniter + Ratchet Websocket with Secure Connection.
 
 ## Laravel
@@ -330,7 +332,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 - [WP Slack](https://github.com/gedex/wp-slack) - This plugin allows you to send notifications to Slack channels when certain events in WordPress occur.
 - [Minimalist](https://github.com/dikiaap/minimalist) - A Material Colorscheme Darker for Vim.
-- [mpv-discordRPC](https://github.com/noaione/mpv-discordRPC) - A mpv media player lua script for Discord RPC integration
+- [mpv-discordRPC](https://github.com/noaione/mpv-discordRPC) - A mpv media player lua script for Discord RPC integration.
 
 ## Python
 
@@ -341,20 +343,20 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Excel2api](https://github.com/FerdinaKusumah/excel2api) - Convert your excel data as api.
 - [Simple Face Recognition](https://github.com/FerdinaKusumah/face-recognition-webservice) - Simple face recognition with example.
 - [Corona data api](https://github.com/FerdinaKusumah/corona-api) - Corona data api with realtime data.
-- [Generate Random Password](https://github.com/hrtywhy/Random-Password-Generator) - Generate your random password and send it via Gmail
-- [PDDIKTI.kemdikbud](https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API) - Unofficial pddikti kemdikbud API Wrapper
-- [Outlook Email Automation](https://github.com/RussellDash332/email-automation) - Windows automated Outlook email sender using the `pywin32` library
+- [Generate Random Password](https://github.com/hrtywhy/Random-Password-Generator) - Generate your random password and send it via Gmail.
+- [PDDIKTI.kemdikbud](https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API) - Unofficial pddikti kemdikbud API Wrapper.
+- [Outlook Email Automation](https://github.com/RussellDash332/email-automation) - Windows automated Outlook email sender using the `pywin32` library.
 
-# R
+## R
 
-- [KalkulatorPajak](https://github.com/yht/KalkulatorPajak) - Indonesian Tax Calculator
+- [KalkulatorPajak](https://github.com/yht/KalkulatorPajak) - Indonesian Tax Calculator.
 
-# Ruby
+## Ruby
 - [Musik88](https://musik88.com/) - Komunitas musik berbasis kecerdasan buatan. Ditulis dengan Ruby on Rails dan beberapa perangkat lunak sumber-terbuka lainnya ([Stackshare](https://stackshare.io/musik88/musik88-web)).
 
-# OSINT
+## OSINT
 
-- [Belati](https://github.com/aancw/Belati) - Collecting Public Data & Public Document from Website
+- [Belati](https://github.com/aancw/Belati) - Collecting Public Data & Public Document from Website.
 
 ## Natural Language Processing
 
@@ -365,7 +367,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Miscellaneous
 
-- [Mac OSX Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme with Mac OSX Lion style.
+- [macOS Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme with macOS Lion style.
 - [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) - Compiled ABP rules to block various ads in Indonesian based site.
 - [Indonesia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/indonesia.md) - Popular repositories in Indonesia.
 - [Topojson of Indonesia](https://github.com/tvalentius/Indonesia-topojson) - TopoJSON of Indonesia (Kota/Kabupaten Level), useful for data visualisation.
@@ -392,7 +394,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Haskell Indonesia](https://github.com/haskell-id)
 - [Indonesian Ruby Community](https://github.com/id-ruby)
 - [Kotlin Indonesia](https://github.com/KotlinID)
-- [Nodejs Indonesia](https://github.com/nodejs-indonesia)
+- [Node.js Indonesia](https://github.com/nodejs-indonesia)
 - [Hugo Indonesia](https://github.com/gohugoid)
 - [Lombokdev](https://github.com/LombokDev)
 - [Lombokjs](https://github.com/lombokjs)
@@ -407,7 +409,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [SurabayaDev](https://github.com/surabayadev)
 - [ReversingID](https://github.com/ReversingID)
 - [Android Developer Serang](https://github.com/androidev-serang)
-- [Indonesia Javascript](https://github.com/idjs)
+- [Indonesia JavaScript](https://github.com/idjs)
 - [Pascal Indonesia](https://github.com/pascal-id)
 - [BughunterID](https://github.com/BugHunterID)
 - [Komunitas Programmer Semarang](https://programmer-semarang.com)
@@ -425,11 +427,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Indonesia Belajar](https://www.youtube.com/c/IndonesiaBelajarKomputer)
 - [Erico Darmawan Handoyo](https://www.youtube.com/c/EricoDarmawanHandoyo)
 - [NgodingPython](https://www.youtube.com/c/NgodingPython)
+- [Insinyur Online](https://www.youtube.com/c/InsinyurOnline)
 
-## Hacktoberfest 2021
+## Contributors
 
-## License
-
-![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)
-
-This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details. This project exists thanks to [all the people who contribute](https://github.com/GitIndonesia/awesome-indonesia-repo/graphs/contributors).
