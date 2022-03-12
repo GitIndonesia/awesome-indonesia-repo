@@ -4,8 +4,21 @@
 [![Gitter](https://img.shields.io/:chat-on_gitter-ED2067.svg)](https://gitter.im/GitIndonesia/awesome-indonesia-repo)
 [![Country](https://img.shields.io/badge/country-indonesia-blue.svg)](#)
 
+#### EN
 A curated list of awesome and amazing repositories created and contributed to by Indonesians.<br>
 This list aims to inspire others and hopefully give encouragement for individuals to contribute in open-source development.
+
+Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
+
+#### ID
+Kumpulan repositori keren yang dibuat dan dikontribusikan oleh orang-orang Indonesia.<br>
+Daftar ini dibuat dengan tujuan menginspirasi orang banyak dan memberikan motivasi untuk setiap individu untuk berkontribusi dalam pengembangan *open-source*.
+
+Terinspirasi oleh [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
+
+## Contributing
+
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Contents
 
@@ -334,6 +347,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [Corona data api](https://github.com/FerdinaKusumah/corona-api) - Corona data api with realtime data.
 - [Generate Random Password](https://github.com/hrtywhy/Random-Password-Generator) - Generate your random password and send it via Gmail.
 - [PDDIKTI.kemdikbud](https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API) - Unofficial pddikti kemdikbud API Wrapper.
+- [Outlook Email Automation](https://github.com/RussellDash332/email-automation) - Windows automated Outlook email sender using the `pywin32` library.
 
 ## R
 
@@ -390,7 +404,8 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [JemberDev](https://github.com/jember-dev)
 - [Banyuwangi Dev](https://github.com/banyuwangidev)
 - [Data Science Indonesia](https://github.com/datascienceid)
-- [Kalimantan Selatan JavaScript User Group](https://github.com/KalselJS)
+- [Data Folks Indonesia](https://github.com/data-folks)
+- [Kalimantan Selatan Javascript User Group](https://github.com/KalselJS)
 - [BekasiJS](https://github.com/bekasijs)
 - [SurabayaJS](https://github.com/SurabayaJS)
 - [SurabayaDev](https://github.com/surabayadev)
@@ -412,7 +427,8 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [Kelas Terbuka](https://www.youtube.com/c/KelasTerbuka)
 - [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
 - [Indonesia Belajar](https://www.youtube.com/c/IndonesiaBelajarKomputer)
-- [Erico Darmawan Handoyo0](https://www.youtube.com/c/EricoDarmawanHandoyo)
+- [Erico Darmawan Handoyo](https://www.youtube.com/c/EricoDarmawanHandoyo)
+- [NgodingPython](https://www.youtube.com/c/NgodingPython)
 - [Insinyur Online](https://www.youtube.com/c/InsinyurOnline)
 
 ## Contributors
