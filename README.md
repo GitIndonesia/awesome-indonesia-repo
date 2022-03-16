@@ -256,6 +256,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [Basic Go](https://github.com/novalagung/dasarpemrogramangolang) - Best E-Book Learn Go in Bahasa.
 - [Python101](https://github.com/sakti/python101) - Python beginner workshop material.
 - [Dart](https://github.com/bellshade/Dart) - Belajar contoh struktur data, algoritma dan komputasi matematika yang diimplementasikan dengan menggunakan bahasa pemrograman Dart.
+- [Malasngoding](https://www.malasngoding.com/) - Belajar pemrograman web, web design & mobile app lengkap dari dasar untuk pemula sampai mahir, tersedia tutorial dengan studi kasus.
 
 ## Linux Software
 
@@ -416,6 +417,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [Indonesia Belajar](https://www.youtube.com/c/IndonesiaBelajarKomputer)
 - [Erico Darmawan Handoyo0](https://www.youtube.com/c/EricoDarmawanHandoyo)
 - [Insinyur Online](https://www.youtube.com/c/InsinyurOnline)
+- [Malasngoding](https://www.malasngoding.com/)
 
 ## Contributors
 
