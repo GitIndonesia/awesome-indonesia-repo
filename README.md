@@ -144,6 +144,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [WhatsApp bot](https://github.com/SlmnMEDIA/whatsapp-bot) - WhatsApp bot insideheart basis linux.
 - [Game Online Store](https://github.com/DeVoresyah/ZStore) - Online game store created with React Native.
 - [Keking](https://github.com/bayue48/keking-bot) - Discord music bot made with discord.js.
+- [Tebak kata](https://gameonline.co.id/g/tebak-kata) - Indonesian Wordle version 
 
 ## Go
 
