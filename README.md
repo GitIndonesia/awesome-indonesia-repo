@@ -433,6 +433,7 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [Insinyur Online](https://www.youtube.com/c/InsinyurOnline)
 - [Array ID](https://www.youtube.com/c/arrayid1)
 - [Nusendra.com](https://www.youtube.com/channel/UCPs91pCgbgtcSdnczFSAkdA)
+- [Cloud Engineering with Imre](https://www.youtube.com/c/ImreNagi)
 
 ## Contributors
 
