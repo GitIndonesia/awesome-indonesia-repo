@@ -432,6 +432,9 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [Erico Darmawan Handoyo0](https://www.youtube.com/c/EricoDarmawanHandoyo)
 - [Insinyur Online](https://www.youtube.com/c/InsinyurOnline)
 - [Array ID](https://www.youtube.com/c/arrayid1)
+- [IDStack](https://www.youtube.com/c/IDStack)
+- [Dea Afrizal](https://www.youtube.com/c/DeaAfrizal)
+- [CodePolitan](https://www.youtube.com/c/Codepolitan)
 
 ## Contributors
 
