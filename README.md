@@ -378,6 +378,8 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 
 ## Miscellaneous
 
+- [AdBlockID](https://github.com/realodix/AdBlockID) - An effective filter for removing most ads on Indonesian and Malaysian websites. 
+- [blocklist](https://github.com/pengelana/blocklist) - Privacy DNS
 - [macOS Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme with macOS Lion style.
 - [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) - Compiled ABP rules to block various ads in Indonesian based site.
 - [Indonesia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/indonesia.md) - Popular repositories in Indonesia.
