@@ -28,6 +28,7 @@ This list aims to inspire others and hopefully give encouragement for individual
   - [Angular](#angular)
   - [Express](#express)
   - [Vue](#vue)
+  - [NestJs](#nestjs)
   - [Gridsome Starter](#gridsome-starter)
   - [Jekyll Theme](#jekyll-theme)
   - [Learn](#learn)
@@ -101,6 +102,9 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [E-Library MDC](https://github.com/MuhammadiyahDeveloperClub/E-Library) - *E-library* yang berisi kumpulan *E-book* tentang dunia IT.
 - [JVM Handbook](https://github.com/bliblidotcom/jvm-handbook) - Buku pembahasan detil tentang cara kerja dan internal JVM.
 
+## Roadmap
+- [RoadmapId](https://roadmapid.vercel.app/) - Roadmap yang menyediakan alur belajar khusus untuk web developer Indonesia yang masih pemula
+
 ## Content Management System
 
 - [Lentera](https://github.com/laravel-indonesia/lentera) - Indonesian Learning Management System (LMS).
@@ -166,6 +170,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [Design Pattern](https://github.com/imrenagi/design-pattern) - Design pattern with Go
 - [Gubrak](https://github.com/novalagung/gubrak) - Golang functional utility library with syntactic sugar. It's like lodash, but for Go
 - [Godong](https://github.com/novalagung/godong) - Easiest dynamic http route handler for golang
+- [HiberSunda](https://github.com/hiberin/hibersunda) - The API to learn Undak Usuk Basa in Sundanese language.
 
 ## Haskell
 
@@ -205,6 +210,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) - A browser extension that offers audio visualization on your YouTube page with nice musical notes.
 - [Simple Web Storage](https://github.com/sutanlab/simple-webstorage) - Lightweight utilities that can make easier to access application storage in client browser.
 - [Museum Indonesia CLI](https://github.com/maulana20/museum-id) - Open source Show Data Museum in Indonesia via Command-CLI.
+- [Geografis](https://github.com/drizki/geografis) - A Node.js module containing detailed area info including area code, postal code, village, district, city, province, coordinates, elevation, and geojson files.
 - [Data Wilayah](https://github.com/codenoid/Data-Wilayah.js) - Indonesia territory data in JavaScript, so you don't backend/database.
 - [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) - Figma plugin copy & paste color directly from your phone's camera to design plugins.
 - [Aksara UI](https://github.com/kata-ai/aksara-ui) - Aksara UI is an implementation of Aksara using the React framework.
@@ -250,8 +256,11 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [Vuello](https://github.com/kurnyaannn/vuello) - Simple Trello Clone built using Vite-Vue + TailwindCSS
 - [Disgrow-visualization](https://github.com/sinkaroid/disgrow-visualization) - Create your web visualization Discord bots growth and statistics with ease.
 
-## Gridsome Starter
+## NestJs
 
+- [Lyricstify](https://github.com/lyricstify/lyricstify/) - Command line based application to show synchronized Spotify lyrics in your terminal. Built with Node, TypeScript, NestJs & RxJs.
+
+## Gridsome Starter
 
 ## Jekyll Theme
 
@@ -384,6 +393,7 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [OpenRetail](https://github.com/rudi-krsoftware/open-retail) - Perangkat lunak open source yang dikembangkan khusus untuk bidang usaha ritel, grosir, toko bangunan, toko komputer, toko buku, counter hp, pos, point of sale, kasir dan bidang usaha lainnya yang sejenis.
 - [Peta Indonesia GeoJSON](https://github.com/ans-4175/peta-indonesia-geojson) - Provincial GeoJSON data for Indonesia. Useful for making choropleth visualizations for Data Science projects. (by [ans-4175](https://github.com/ans-4175))
 - [thedev.id](https://github.com/fransallen/thedev.id) - An identity for developers on the web. (Subdomain)
+- [merahputih.moe](https://github.com/ScathachGrip/merahputih.moe) - 📦 Pretty and moe subdomains to host your weeb project.
 
 ## Community
 
@@ -423,6 +433,7 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [BughunterID](https://github.com/BugHunterID)
 - [Komunitas Programmer Semarang](https://programmer-semarang.com)
 - [React Native Indonesia](https://github.com/react-native-id)
+- [Ethical Hacker Indonesia](https://github.com/ethicalhackID)
 
 ## Content Creator
 
