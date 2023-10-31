@@ -96,11 +96,11 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 ## Books
 
-- [Panduan Lengkap Refactoring](https://github.com/zuramai/refactoring) - Kumpulan metode refactoring dan cara mengatasi code smells yang berpotensi mengurangi maintainability pada sebuah software. 
+- [Panduan Lengkap Refactoring](https://github.com/zuramai/refactoring) - Lists of refactoring methods and code-smell issue fixes which decreases maintanability of a software
 - [Free Programming Books Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md) - Freely available programming books written in Indonesian.
-- [Buku Git](https://github.com/endymuhardin/buku-git) - Buku *Version Control* menggunakan `Git`.
-- [E-Library MDC](https://github.com/MuhammadiyahDeveloperClub/E-Library) - *E-library* yang berisi kumpulan *E-book* tentang dunia IT.
-- [JVM Handbook](https://github.com/bliblidotcom/jvm-handbook) - Buku pembahasan detil tentang cara kerja dan internal JVM.
+- [Buku Git](https://github.com/endymuhardin/buku-git) - Version Control through `Git`.
+- [E-Library MDC](https://github.com/MuhammadiyahDeveloperClub/E-Library) - Library of E-books for Informations Technology
+- [JVM Handbook](https://github.com/bliblidotcom/jvm-handbook) - Detailed handbook regarding JVM
 
 ## Roadmap
 - [RoadmapId](https://roadmapid.vercel.app/) - Roadmap yang menyediakan alur belajar khusus untuk web developer Indonesia yang masih pemula
@@ -109,20 +109,20 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 - [Lentera](https://github.com/laravel-indonesia/lentera) - Indonesian Learning Management System (LMS).
 - [Pusaka CMS](https://github.com/codepolitanlab/pusakacms) - File-based CMS build with CodeIgniter Framework.
-- [Elybin CMS](https://github.com/elybin/ElybinCMS) - Sistem manajemen konten gratis yang berfokus kepada kegunaan, kecepatan, dan kemudahan.
+- [Elybin CMS](https://github.com/elybin/ElybinCMS) - A free Content Management System which mainly focuses on viabilty and ease of use.
 - [Fiyo CMS](https://github.com/FiyoCMS/FiyoCMS) - Open-source CMS built with a friendly design, fast loading time, and SEO-friendliness.
 - [HTMLy](https://github.com/danpros/htmly) - HTMLy is a database-less or flat-file blogging platform prioritizing simplicity and speed written in PHP.
 - [Mecha CMS](https://github.com/mecha-cms/mecha) - Mecha is a flat-file content management system that carries the concept of minimalism.
-- [PopojiCMS](https://github.com/PopojiCMS/PopojiCMS) - Buat Sendiri Rasa Webmu.
+- [PopojiCMS](https://github.com/PopojiCMS/PopojiCMS) - Buat Sendiri Rasa Webmu. 
 
 ## Climate Change
 
-- [Covid19 Indonesia Speech Recognition](https://github.com/VieriLusen/Covid19-SpeechRecognition) - Website for updating the Covid-19 information in Indonesian provinces built with speech recognition in mind.
-- [BUMI](https://github.com/Hadaanallah/BUMI) - Sebuah daftar kurasi dari akun, situs web, atau halaman peduli bumi yang tersebar di internet.
+- [Covid19 Indonesia Speech Recognition](https://github.com/VieriLusen/Covid19-SpeechRecognition) - A website which Informations about the updates on the ongoing Covid-19 Documentations in Indonesian provinces.
+- [BUMI](https://github.com/Hadaanallah/BUMI) - Curation lists from accounts, websites and foundations regarding sustainability of the world.
 
 ## Databases
 
-- [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia.
+- [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - A list of provinces, cities, districts and subdistricts in Indonesia
 - [Qur'an dan Terjemah](https://github.com/fikimaul/get-data-quran-kemenag) - Data Qur'an dan terjemah bahasa indonesia dari Kemenag.
 
 ## Frameworks
@@ -271,13 +271,13 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 
 ## Learn
 
-- [Belajar Git](https://github.com/endymuhardin/belajarGit) - Tutorial Git dalam Bahasa Indonesia.
-- [Ruby Basic](https://github.com/xinuc/ruby_basic) - Learning material for Ruby Programming Language, written in Bahasa Indonesia.
-- [Docs vuejs id](https://github.com/vuejs-id/docs) - Dokumentasi Vue.js Bahasa Indonesia.
+- [Belajar Git](https://github.com/endymuhardin/belajarGit) - Git tutorials in Bahasa
+- [Ruby Basic](https://github.com/xinuc/ruby_basic) - Learning material for Ruby Programming Language, written in Bahasa.
+- [Docs vuejs id](https://github.com/vuejs-id/docs) - Vue.js documentations written in Bahasa.
 - [PUEBI Daring](https://github.com/ivanlanin/puebi) - PUEBI Daring adalah versi web ramah gawai dari PUEBI Permendikbud 50/2015.
-- [TarungLab DDP1](https://github.com/laymonage/TarungLabDDP1) - Kumpulan materi pembelajaran dasar-dasar pemrograman dalam bahasa Python.
-- [Basic Go](https://github.com/novalagung/dasarpemrogramangolang) - Best E-Book Learn Go in Bahasa.
-- [Python101](https://github.com/sakti/python101) - Python beginner workshop material.
+- [TarungLab DDP1](https://github.com/laymonage/TarungLabDDP1) - Materials of the basics in Programming through Python.
+- [Basic Go](https://github.com/novalagung/dasarpemrogramangolang) - A list of E-Books Learn Go in Bahasa.
+- [Python101](https://github.com/sakti/python101) - Workshop materials for Python beginners.
 - [Dart](https://github.com/bellshade/Dart) - Belajar contoh struktur data, algoritma dan komputasi matematika yang diimplementasikan dengan menggunakan bahasa pemrograman Dart.
 
 ## Linux Software
@@ -293,18 +293,18 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [PHP-BOOTSTRAP](https://github.com/Harazaki/PHP-BOOTSTRAP) - Simple design templates framework together with the famous bootstrap.
 - [Simple PHP Excel](https://github.com/faisalman/simple-excel-php) - Easily parse / convert / write any Microsoft Excel.
 - [Membership PHP Indonesia](https://github.com/phpindonesia/phpindonesia.or.id-membership2) - Membership Application for PHP Indonesia.
-- [playCMS](https://github.com/antonraharja/playSMS) - Web-based Mobile Portal System that it can be made to fit to various services such as an SMS gateway.
-- [Terbilang](https://github.com/mul14/terbilang-php) - Convert numbers into words in Indonesian language.
+- [playCMS](https://github.com/antonraharja/playSMS) - Web-based Mobile Portal System that can be made to fit to various services such as an SMS gateway.
+- [Terbilang](https://github.com/mul14/terbilang-php) - A tool to convert numbers into words to Bahasa.
 - [SLiMS 8 Akasia](https://github.com/slims/slims8_akasia) - SLiMS is free open source software for library resources management and administration.
 - [cURL Lib](https://github.com/andhikayuana/curl-lib) - Simple Wrapper for cURL.
 - [ovoid](https://github.com/lintangtimur/ovoid) - Unofficial OVO API Wrapper.
-- [MIKHMON - MikroTik Hotspot Monitor](https://github.com/laksa19/mikhmonv3) - MikroTik Hotspot Monitor adalah aplikasi berbasis web (MikroTik API PHP class) untuk membantu manajemen Hotspot MikroTik. Khususnya MikroTik yang tidak mendukung User Manager.
-- [Pub/Sub Redis for PHP](https://github.com/RioRizkyRainey/pubsub-redis-php) - Implementasi Publisher-Subscriber Pattern pada PHP menggunakan Redis.
-- [PHP-Spellchecker](https://github.com/RioRizkyRainey/PHP-Spellchecker) - Spellchecker atau Typo detector menggunakan PHP. Tersedia juga assets dictionary untuk Bahasa Indonesia.
-- [PHP-SimpleScanDirektori](https://github.com/Jon3sjns/ScanDir/) - Scan direktori sederhana menggunakan php untuk pencarian direktori yang sensitif.
+- [MIKHMON - MikroTik Hotspot Monitor](https://github.com/laksa19/mikhmonv3) - A web-based application to manage MikroTik hotspots. Additionally made to help user-managing.
+- [Pub/Sub Redis for PHP](https://github.com/RioRizkyRainey/pubsub-redis-php) - An implementation to describe Publisher-Subscriber patterns in PHP through Redis.
+- [PHP-Spellchecker](https://github.com/RioRizkyRainey/PHP-Spellchecker) - Spelling checker and *Typo* detector through PHP. Also available in Bahasa.
+- [PHP-SimpleScanDirektori](https://github.com/Jon3sjns/ScanDir/) - Directory scanner which filters sensitive directories
 - [PHP-E-Commerce](https://github.com/FadellMuhammad/E-commerce) - E-Commerce sederhana, terdapat fitur daftar,login dan profile.
 - [R_CRUD](https://github.com/ICWR-TEAM/R-CRUD) - CRUD PHP Plugins. Fungsi CRUD untuk mempermudah scripting yang berhubungan dengan CRUD.
-- [Letter Avatar for PHP](https://github.com/yohang88/letter-avatar) - Generate avatar berdasarkan inisial nama.
+- [Letter Avatar for PHP](https://github.com/yohang88/letter-avatar) - Avatar generator using initials.
 
 ## CodeIgniter
 
@@ -314,21 +314,21 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 
 ## Laravel
 
-- [Avatar](https://github.com/laravolt/avatar) - Plug and play avatar, turn initial name into beautiful avatar.
+- [Avatar](https://github.com/laravolt/avatar) - An Avatar generator using Initials
 - [Pingpong Admin](https://github.com/pingpong-labs/admin) - Laravel 5 Admin.
-- [Absis](https://github.com/smpn1smg/absis) - Sistem Akademik K13/KTSP Berbasis Web.
+- [Absis](https://github.com/smpn1smg/absis) - Web Academics system based on K13 and KTSP.
 - [AppRocket PreProject](https://github.com/rawaludin/approcket-preproject) - Contoh aplikasi CRUD dengan Laravel 5.2.
 - [Laravel Circuit Breaker](https://github.com/rymanalu/laravel-circuit-breaker) - Circuit Breaker pattern implementation in Laravel 5.
-- [Laravel Simple Uploader](https://github.com/rymanalu/laravel-simple-uploader) - Simple file uploader for Laravel 5.
-- [Laravel 5 Model Factory Generator](https://github.com/rymanalu/factory-generator) - Generate a new model factory using Artisan command.
-- [Laravolt Indonesia](https://github.com/laravolt/indonesia) - Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di Indonesia.
+- [Laravel Simple Uploader](https://github.com/rymanalu/laravel-simple-uploader) - A file uploader system for Laravel 5.
+- [Laravel 5 Model Factory Generator](https://github.com/rymanalu/factory-generator) - Model generator using Artisan.
+- [Laravolt Indonesia](https://github.com/laravolt/indonesia) - Laravel package which includes provinces, cities and districts in Indonesia
 - [Semantic Form](https://github.com/laravolt/semantic-form) - Semantic UI form builder, for Laravel.
 - [CRUD Booster](https://github.com/crocodic-studio/crudbooster) - Easy Admin Dashboard & CRUD generator for Laravel.
 - [Dokularavel](https://github.com/crocodic-studio/dokularavel) - DOKU Payment Gateway Library for Laravel.
 - [Free PMO](https://github.com/nafiesl/free-pmo) - Project management software for freelancers or agencies, built with Laravel 5.
 - [LaraCed (Laravel Creator-Editor-Destroyer)](https://github.com/RioRizkyRainey/LaraCed) - This package automatically inserts/updates creator, editor and destroyer on your table migrations.
-- [Indoregion](https://github.com/azishapidin/indoregion) - Package Data Provinsi, Kabupaten/Kota, Kecamatan/Distrik dan Desa/Kelurahan di Indonesia.
-- [Laravel Books API](https://github.com/yusuftaufiq/laravel-books-api) - Fully documented & tested Laravel 9 RESTful books API scraped from Gramedia.
+- [Indoregion](https://github.com/azishapidin/indoregion) - Laravel package which includes provinces, cities and districts in Indonesia
+- [Laravel Books API](https://github.com/yusuftaufiq/laravel-books-api) - Documentations of Laravel 9 RESTful books API scraped from Gramedia.
 
 ## Slim
 
