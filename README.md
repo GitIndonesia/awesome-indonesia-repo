@@ -222,7 +222,8 @@ This list aims to inspire others and hopefully give encouragement for individual
 Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terkena pemutusan hubungan kerja karena pandemi COVID-19 dengan perusahaan yang sedang mencari talenta digital.
 - [Disgrow](https://github.com/sinkaroid/disgrow) - A growth increments for your Discord bots.
 - [Jandapress](https://github.com/sinkaroid/jandapress) - RESTful API for the doujinboards with gather in mind.
-- [Movion](https://github.com/hiwijaya/movion) - 🎬 Your daily dose of movie updates
+- [Movion](https://github.com/hiwijaya/movion) - 🎬 Your daily dose of movie updates.
+- [Bukumark](https://github.com/LIGMATV/Bukumark) - Bookmark manager that keep you simple with beautiful UI
 
 ## Java
 
