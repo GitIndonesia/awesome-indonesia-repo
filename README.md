@@ -331,6 +331,8 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [LaraCed (Laravel Creator-Editor-Destroyer)](https://github.com/RioRizkyRainey/LaraCed) - This package automatically inserts/updates creator, editor and destroyer on your table migrations.
 - [Indoregion](https://github.com/azishapidin/indoregion) - Package Data Provinsi, Kabupaten/Kota, Kecamatan/Distrik dan Desa/Kelurahan di Indonesia.
 - [Laravel Books API](https://github.com/yusuftaufiq/laravel-books-api) - Fully documented & tested Laravel 9 RESTful books API scraped from Gramedia.
+- [Laravel Get Timezone by City](https://github.com/IlhamriSKY/laravel-timezone-by-city) - Laravel Get Timezone by City package provides a simple way to retrieve timezone information for cities around the world. It utilizes Carbon for date and time manipulation.
+- [Laravel PDDIKTI API](https://github.com/IlhamriSKY/PddiktiApi) - Unofficial PDDIKTI API Laravel Package, providing easy access to university, lecturer, and student data.
 
 ## Slim
 
