@@ -452,6 +452,9 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [Erico Darmawan Handoyo0](https://www.youtube.com/c/EricoDarmawanHandoyo)
 - [Insinyur Online](https://www.youtube.com/c/InsinyurOnline)
 - [Array ID](https://www.youtube.com/c/arrayid1)
+- [Nusendra.com](https://www.youtube.com/channel/UCPs91pCgbgtcSdnczFSAkdA)
+- [Cloud Engineering with Imre](https://www.youtube.com/c/ImreNagi)
+- [Sastra Nababan](https://www.youtube.com/c/SastraNababan)
 
 ## Contributors
 
