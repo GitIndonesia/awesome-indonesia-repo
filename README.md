@@ -9,7 +9,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 ## Contents
 
-- [Awesome Indonesia Repo ![Awesome](https://awesome.re)](#awesome-indonesia-repo-)
+- [Awesome Indonesia Repo ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-indonesia-repo)
   - [Contents](#contents)
   - [Android](#android)
   - [Awesome List](#awesome-list)
