@@ -181,6 +181,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 - [Fido](https://github.com/codenoid/Fido) - Distributed Storage, Easily distribute your data accross disk/node.
 - [Learn Rust](https://github.com/evilfactorylabs/belajar-rust) - Learn Rust From Scratch
+- [Sentrix Chain](https://github.com/sentrix-labs/sentrix) - Open source EVM-compatible Layer-1 blockchain written in Rust. Native + EVM dual-layer execution.
 
 ## JavaScript
 
