@@ -336,6 +336,7 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [Laravel PDDIKTI API](https://github.com/IlhamriSKY/PddiktiApi) - Unofficial PDDIKTI API Laravel Package, providing easy access to university, lecturer, and student data.
 
 - [SantriGresik EmDash](https://github.com/keirelliot12/santri-gresik-emdash) - Modern blog template built with Astro, Cloudflare Pages, and Markdown for pesantren & Islamic content.
+- [Laravel Indonesia Territory](https://github.com/caturseptian/laravel-indonesia-territory) - Package Laravel untuk data wilayah Kepmendagri 2025 (provinsi sampai desa, kode pos, koordinat, batas wilayah, pulau); pasang sekali, bisa di-eject tanpa dependensi di production.
 ## Slim
 
 - [Slim Starter](https://github.com/xsanisty/SlimStarter) - Starter Application built on Slim Framework in MVC (and HMVC) environment.
