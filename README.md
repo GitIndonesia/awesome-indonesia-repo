@@ -356,6 +356,7 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [Minimalist](https://github.com/dikiaap/minimalist) - A Material Colorscheme Darker for Vim.
 - [mpv-discordRPC](https://github.com/noaione/mpv-discordRPC) - A mpv media player lua script for Discord RPC integration.
 - [Doa Harian Katolik](https://github.com/IlhamriSKY/Doa-Harian-Katolik) - Extension Visual Studio Code (VSCode) untuk pengingat doa harian Katolik, dilengkapi dengan fitur tambahan seperti kalender liturgi, Alkitab, dan lainnya.
+- [Asset Downloader](https://github.com/ren-zi-fa/assets-web-downloader) - Memindai dan mengunduh gambar, sprite, font, audio, dan warna dari halaman web mana pun.
 
 ## Python
 
