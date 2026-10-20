@@ -172,6 +172,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [Godong](https://github.com/novalagung/godong) - Easiest dynamic http route handler for golang
 - [HiberSunda](https://github.com/hiberin/hibersunda) - The API to learn Undak Usuk Basa in Sundanese language.
 - [NAEOS](https://github.com/NAEOS-foundation/naeos) - Declarative platform engineering system: transforms specifications into validated multi-language project structures.
+- [NusaIndex](https://github.com/haikalmumtaz233/nusaindex) - Validasi, parse, dan format NIK, NPWP, nomor HP, plat, wilayah, libur, dan Rupiah untuk Go dan TypeScript, offline tanpa dependensi.
 
 ## Haskell
 
