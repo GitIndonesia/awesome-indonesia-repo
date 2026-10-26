@@ -186,6 +186,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 ## JavaScript
 
+- [zakat-mal](https://github.com/codesbykhairannoor/zakat-mal) - Zero-dependency Fiqh-verified Zakat Mal calculation engine for Islamic finance (AAOIFI 35 & BAZNAS).
 - [PandaJS](https://github.com/rizki4106/pandajs) - Pandajs is a library for create REST SERVER.
 - [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 - [jQuery Calx](https://github.com/xsanisty/jquery-calx) - jQuery plugin for creating formula-based calculation.
