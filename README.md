@@ -362,6 +362,7 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 
 ## Python
 
+- [Corvin](https://github.com/codesbykhairannoor/corvin) - Mesin Cognitive Boundary, Anti-Sycophancy & Grudge-Memory untuk agen AI berdaulat berbasis dinamika afektif dan Game Theory.
 - [WordGraph](https://github.com/tistaharahap/WordGraph) - Weighting word frequency graph.
 - [fasttext](https://github.com/salestock/fastText.py) - A Python interface for Facebook fastText.
 - [HSR](https://github.com/pyk/hsr) - Hand signals recognition using Convolutional Neural Network implemented in TensorFlow.
