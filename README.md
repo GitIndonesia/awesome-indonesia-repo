@@ -124,6 +124,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 - [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia.
 - [Qur'an dan Terjemah](https://github.com/fikimaul/get-data-quran-kemenag) - Data Qur'an dan terjemah bahasa indonesia dari Kemenag.
+- [Buku Indonesia](https://github.com/khrlanamm/buku-indonesia) - Data terbuka buku Indonesia, dengan API JSON statis dan unduhan CSV, JSON, dan SQLite.
 
 ## Frameworks
 
@@ -186,6 +187,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 ## JavaScript
 
+- [zakat-mal](https://github.com/codesbykhairannoor/zakat-mal) - Zero-dependency Fiqh-verified Zakat Mal calculation engine for Islamic finance (AAOIFI 35 & BAZNAS).
 - [PandaJS](https://github.com/rizki4106/pandajs) - Pandajs is a library for create REST SERVER.
 - [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 - [jQuery Calx](https://github.com/xsanisty/jquery-calx) - jQuery plugin for creating formula-based calculation.
