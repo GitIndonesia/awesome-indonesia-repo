@@ -387,7 +387,8 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 
 - [Belati](https://github.com/aancw/Belati) - Collecting Public Data & Public Document from Website.
 - [GhostIntel](https://github.com/ruyynn/GhostIntel) - OSINT & Recon tool by Indonesian developer. Beginner-friendly, open-source, and actively maintained.
-
+- [SanderShield](https://github.com/aleksandergrambelik-png/SanderShield) - A 30KB zero-dependency Mobile Security Suite built on Termux. Features: Port Scanner, CVE Checker, Anti-Tracker, and GPS Guard.
+- [SanderHexDump](https://github.com/aleksandergrambelik-png/SanderHexDump) - A lightweight native Hex Editor & Reverse Engineering tool for Android. 100% Java, no Gradle, with color-highlighted Hex/ASCII view.
 ## Natural Language Processing
 
 - [Sastrawi](https://github.com/sastrawi/sastrawi) - High quality stemmer library for Indonesian Language.
