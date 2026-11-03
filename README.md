@@ -124,6 +124,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 - [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) - Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia.
 - [Qur'an dan Terjemah](https://github.com/fikimaul/get-data-quran-kemenag) - Data Qur'an dan terjemah bahasa indonesia dari Kemenag.
+- [Buku Indonesia](https://github.com/khrlanamm/buku-indonesia) - Data terbuka buku Indonesia, dengan API JSON statis dan unduhan CSV, JSON, dan SQLite.
 
 ## Frameworks
 
@@ -363,6 +364,7 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 
 ## Python
 
+- [Corvin](https://github.com/codesbykhairannoor/corvin) - Mesin Cognitive Boundary, Anti-Sycophancy & Grudge-Memory untuk agen AI berdaulat berbasis dinamika afektif dan Game Theory.
 - [WordGraph](https://github.com/tistaharahap/WordGraph) - Weighting word frequency graph.
 - [fasttext](https://github.com/salestock/fastText.py) - A Python interface for Facebook fastText.
 - [HSR](https://github.com/pyk/hsr) - Hand signals recognition using Convolutional Neural Network implemented in TensorFlow.
