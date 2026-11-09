@@ -78,6 +78,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 - [a-navigator](https://github.com/rh-id/a-navigator) - Navigation framework for Android.
 - [a-provider](https://github.com/rh-id/a-provider) -  Service Locator library for Android.
 - [a-logger](https://github.com/rh-id/a-logger) - Simple log library for Android.
+- [SanderGate](https://github.com/aleksandergrambelik-png/SanderGate-APK) - Native Android Git Client & Local API Firewall. Zero Dependency, Pure Java. Features PIN/Fingerprint Lock and Direct Git Commit Terminal.
 
 ## Awesome List
 
