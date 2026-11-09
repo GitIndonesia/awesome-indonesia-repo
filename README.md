@@ -391,6 +391,8 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [GhostIntel](https://github.com/ruyynn/GhostIntel) - OSINT & Recon tool by Indonesian developer. Beginner-friendly, open-source, and actively maintained.
 - [SanderShield](https://github.com/aleksandergrambelik-png/SanderShield) - A 30KB zero-dependency Mobile Security Suite built on Termux. Features: Port Scanner, CVE Checker, Anti-Tracker, and GPS Guard.
 - [SanderHexDump](https://github.com/aleksandergrambelik-png/SanderHexDump) - A lightweight native Hex Editor & Reverse Engineering tool for Android. 100% Java, no Gradle, with color-highlighted Hex/ASCII view.
+- [SanderDeflect](https://github.com/aleksandergrambelik-png/SanderDeflect/releases/tag/v1.0.1.0) - Standalone Android Defense Dashboard APK (Zero Dependency, No Root). Features Math Challenge access gate, Recon, Decoy HTML, Tarpit, Sinkhole JSON logging, and Payload Mirroring.
+
 ## Natural Language Processing
 
 - [Sastrawi](https://github.com/sastrawi/sastrawi) - High quality stemmer library for Indonesian Language.
